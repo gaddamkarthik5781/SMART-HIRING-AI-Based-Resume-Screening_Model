@@ -25,6 +25,15 @@ This project aims to develop a **fair, accurate, and interpretable AI-based resu
 
 ---
 
+
+## Model Files
+The saved models for this project are too large to include in the repository.  
+You can download them from the following Google Drive link:  
+[Download Models]([(https://drive.google.com/drive/folders/1JGFqvBZBxatlnBK3EIKgoEtY2Nt8_mnk?usp=drive_link)])
+
+
+---
+
 ## Prerequisites
 
 - Python 3.8+
@@ -33,8 +42,3 @@ This project aims to develop a **fair, accurate, and interpretable AI-based resu
 Install dependencies:
 ```bash
 pip install -r requirements.txt
-
-## Model Files
-The saved models for this project are too large to include in the repository.  
-You can download them from the following Google Drive link:  
-[Download Models]([(https://drive.google.com/drive/folders/1JGFqvBZBxatlnBK3EIKgoEtY2Nt8_mnk?usp=drive_link)])
