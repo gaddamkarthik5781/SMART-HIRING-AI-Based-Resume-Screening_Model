@@ -1,0 +1,5 @@
+Metric,Original Model,Reweighing Model,Adversarial Debiasing Model
+Accuracy,0.8987,0.84,0.8375
+F1 Score,0.8892,0.85,0.8264
+Precision,0.8921,0.8339,0.8339
+Recall,0.8987,0.84,0.8375

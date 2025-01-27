@@ -1,0 +1,1 @@
+Counterfactual Fairness Disparity: 0.1130

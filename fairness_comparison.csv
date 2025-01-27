@@ -1,0 +1,4 @@
+Model,Statistical Parity (Gender),Statistical Parity (Race),Disparate Impact Ratio (Female/Male),Disparate Impact Ratio (Indian/Black)
+Original Model,1.06,1.08,1.06,1.04
+Reweighing Model,1.02,1.04,1.02,1.02
+Adversarial Debiasing Model,1.01,1.02,1.01,1.01
