@@ -21,8 +21,6 @@ This project aims to develop a **fair, accurate, and interpretable AI-based resu
   - **Reweighing**: Adjust weights to balance group representations.
 - **Explainable AI**:
   - **LIME**: Highlight influential words or phrases in individual predictions.
-  - **SHAP**: Quantify feature contributions using game-theoretic principles.
-
 ---
 
 
